@@ -1,0 +1,11 @@
+torch==2.2.2
+torchaudio==2.2.2
+transformers==4.46.3
+gradio==4.44.0
+yt_dlp
+numpy==1.26.4
+soundfile
+librosa
+silero_vad
+deepfilternet
+misaki
